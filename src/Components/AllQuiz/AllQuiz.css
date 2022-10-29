@@ -1,0 +1,13 @@
+.allquiz-container{
+    width: 70vw;
+    background-color: aliceblue;
+    box-shadow: azure;
+    margin: 50px auto;
+}
+.allquiz{
+    display: flex;
+}
+
+.allquiz img{
+    width: 300px;
+}
